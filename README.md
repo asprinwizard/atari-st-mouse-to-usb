@@ -1,1 +1,1 @@
-# atari-st-mouse
+# ATARI ST MOUSE
